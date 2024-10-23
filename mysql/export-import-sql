@@ -1,0 +1,1 @@
+/Users/Shared/DBngin/mysql/5.7.23/bin/mysql -u root --host=127.0.01 --port=3306 laravel_db < ~/Users/zoro/Downloads/optimaDB-table.sql
